@@ -1,4 +1,4 @@
-# 🏥 Análise de Hospitais e Leitos no Brasil (2015–2025)
+# 🏥 Análise de Hospitais e Leitos no Brasil (2016–2025)
 Este projeto de MVP da pós-graduação em Ciência e Análise de Dados tem como objetivo analisar a evolução da quantidade de hospitais e leitos no Brasil ao longo do tempo, com foco no impacto da pandemia de COVID-19. A análise considera dados de 2016 a 2025, obtidos do portal de dados do Governo Federal.
 
 ## 🎯 Objetivos
